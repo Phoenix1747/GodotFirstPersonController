@@ -17,7 +17,7 @@ var gravity = -9.8 * 3
 const MAX_SPEED = 20
 const MAX_RUNNING_SPEED = 30
 const ACCEL = 2
-const DEACCEL = 6
+const DEACCEL = 10
 
 #jumping
 var jump_height = 15
